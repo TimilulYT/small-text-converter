@@ -27,9 +27,7 @@ Willkommen beim Small Text Converter! Dieses Tool wurde entwickelt, um Texte in 
 
 ## Nutzung
 
-1. Starte den Server:
-   ```Führe aus: index.html
-   ```
+1. Führe die index.html aus.
 2. Wichtig: Entpacke die .zip Datei!
 
 ## Lizenz und Urheberrecht
